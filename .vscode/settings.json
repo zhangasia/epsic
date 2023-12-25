@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "generate_PromoteTraits.C": "cpp",
+        "test_Vector.C": "cpp",
+        "test_Quaternion.C": "cpp",
+        "test_Basis.C": "cpp",
+        "test_Conventions.C": "cpp",
+        "random.C": "cpp",
+        "Pauli.C": "cpp",
+        "Dirac.C": "cpp",
+        "Conventions.C": "cpp",
+        "BoxMuller.C": "cpp",
+        "test_Dirac.C": "cpp",
+        "test_eigen.C": "cpp",
+        "test_Estimate.C": "cpp",
+        "test_inner_product.C": "cpp",
+        "test_Jacobi.C": "cpp",
+        "test_Jones.C": "cpp",
+        "test_Matrix.C": "cpp",
+        "test_Minkowski.C": "cpp",
+        "test_Mueller.C": "cpp",
+        "test_myfinite.C": "cpp",
+        "test_Pauli.C": "cpp",
+        "test_rotation.C": "cpp",
+        "test_Stokes.C": "cpp"
+    }
+}
